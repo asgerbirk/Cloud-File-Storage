@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "19592523864",
+    "project_id": "cloud-file-storage-1650f",
+    "storage_bucket": "cloud-file-storage-1650f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:19592523864:android:bc5c1af9c115b5600bda2d",
+        "android_client_info": {
+          "package_name": "com.example.cloudfilestorage"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "19592523864-1fathqlpa9e4qje48jgrs6hbniiupalk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUK2XoxDs5oZFIba0WizjjC9SyGSjWqe4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "19592523864-1fathqlpa9e4qje48jgrs6hbniiupalk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
